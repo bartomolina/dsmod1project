@@ -1,11 +1,11 @@
 # Flatiron Data Science Bootcamp - Module 1 Final Project
 ## Deliverables
-- Jupyter Notebook
+- Jupyter Notebook: 30 min.
 - Presentation: 5 min. presentation (methodology, findings) , 5 min. questions
 - Blog post
 - Video walkthrough
 
-Jupyter Notebook walkthrough:
+### Jupyter Notebook walkthrough
 
 - "how did you pick the question(s) that you did?"
 - "why are these questions important from a business perspective?"
@@ -16,3 +16,7 @@ Jupyter Notebook walkthrough:
 - "how would you interpret the results?"
 - "how confident are you in the predictive quality of the results?"
 - "what are some of the things that could cause the results to be wrong?"
+
+- Obtain / Scrub / Explore / Model / iNterpret (1/2 paragraphs)
+
+- Model quality
